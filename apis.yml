@@ -1,19 +1,52 @@
 aid: sirona
-name: Sirona
-description: Sirona is a company surfaced as a portfolio company of 8vc and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Sirona Medical
+description: >-
+  Sirona Medical builds RadOS, the Radiology Operating System — a cloud-native
+  platform that replaces the fragmented legacy radiology IT stack (separate PACS,
+  reporter, diagnostic viewer, and worklist) with one integrated, browser-based
+  system for radiologists and radiology practices. The platform unifies DICOM
+  imaging, structured reports, worklist state, clinical context, and live events
+  behind a single data layer, adds platform AI (auto-impressions, hanging
+  protocols, quality assist, and orchestration of third-party FDA-cleared
+  algorithms), and integrates via managed DICOM, HL7, and FHIR. It is an FDA
+  Class I device platform, SOC 2 Type II certified for six consecutive years,
+  and HIPAA compliant. A public developer surface (the RadOS/Amplify SDK plus a
+  GraphQL API) is announced as on the roadmap; no shipped public API exists yet.
+  Backed by 8vc.
 url: https://raw.githubusercontent.com/api-evangelist/sirona/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://sironamedical.com/og?title=Sirona%20Medical
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - 8vc
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: enriched-no-public-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Healthcare
+- Medical Imaging
+- Radiology
+- PACS
+- DICOM
+- HL7
+- FHIR
+- Cloud
+- Artificial Intelligence
+- Health IT
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +56,34 @@ maintainers:
 common:
 - type: Website
   url: https://sironamedical.com
+- type: DeveloperPortal
+  url: https://sironamedical.com/solutions/developers
+- type: Blog
+  url: https://sironamedical.com/resources/blog
+- type: Pricing
+  url: https://sironamedical.com/pro
+- type: SignUp
+  url: https://sironamedical.com/see-sirona
+- type: Support
+  url: https://sironamedical.com/solutions/24-7-support
+- type: TermsOfService
+  url: https://sironamedical.com/website-terms
+- type: PrivacyPolicy
+  url: https://sironamedical.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/sironamedical
+- type: Compliance
+  url: https://sironamedical.com/solutions/security-regulatory-compliance
+- type: TrustCenter
+  url: security/sirona-trust-center.yml
+- type: Conformance
+  url: conformance/sirona-conformance.yml
+- type: DomainSecurity
+  url: security/sirona-domain-security.yml
+- type: LLMsTxt
+  url: llms/sirona-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

@@ -1,0 +1,50 @@
+# Sirona Medical
+
+> Radiologists get more done with Sirona. Reporting, viewing, PACS, worklist, and AI unified in one cloud-native platform — the Radiology Operating System. Sirona Medical builds RadOS, a cloud-native platform that replaces the fragmented stack of legacy radiology IT (separate PACS, reporter, viewer, and worklist) with one integrated system. It is an FDA Class I device platform, SOC 2 Type II certified, and HIPAA compliant.
+
+## Platform
+
+- [RadOS — The Radiology Operating System](https://sironamedical.com/platform/rados): RadOS unifies all your clinical data and workflow software — reporter, PACS, viewer, worklist — in one cloud-native radiology platform built for agentic AI.
+- [Reporter](https://sironamedical.com/platform/reporter): The first enterprise-grade cloud-native radiology reporter, the only FDA-regulated one. Migrate templates from PowerScribe or Fluency and report faster with AI.
+- [Diagnostic Viewer](https://sironamedical.com/platform/viewer): A browser-based diagnostic viewer with Netflix-style edge streaming. Load images reliably from anywhere on earth — no workstations, no installs, powered by AI.
+- [Worklist](https://sironamedical.com/platform/worklist): Run your practice from a single pane of glass. Sirona's intelligent worklist unifies volume across sites with AI patient jackets and customizable workflows.
+- [Platform AI](https://sironamedical.com/platform/ai): Sirona's platform AI powers every app: auto-impressions, hanging protocols, focus mode, quality assist, and AI orchestration for third-party radiology AI.
+- [PACS Archive](https://sironamedical.com/platform/pacs-archive): Radiology's first cloud-native PACS archive: millisecond retrieval, 11 nines of durability, managed migration, and no servers — at a fraction of legacy cost.
+- [Amplify SDK](https://sironamedical.com/platform/sdk): Sirona's vision for opening the platform — a path for developers, AI vendors, and practices to build custom AI applications on unified data and unified events.
+- [Zero-Footprint](https://sironamedical.com/platform/capability/zero-footprint): No workstation management, no installs, invisible upgrades every two weeks. Sirona runs in the browser on any computer with Chrome — zero-footprint radiology.
+- [Integrations — DICOM, HL7 & FHIR](https://sironamedical.com/platform/capability/interoperability): Sirona integrates cleanly with your existing PACS, RIS, EMR, and worklist. Fully managed DICOM, HL7, and FHIR integration — no custom bridges, no lock-in.
+- [PACS Data Migration](https://sironamedical.com/platform/migration): Move petabytes easier. How Sirona migrates data from legacy PACS archives with managed tooling, AWS Snowball, and a services team that has seen it all before.
+- [Training & Onboarding](https://sironamedical.com/platform/training): How Sirona trains radiologists, technologists, and IT teams for a fast, low-disruption go-live — simplified training and change management for every role.
+
+## Solutions
+
+- [Teleradiology](https://sironamedical.com/solutions/teleradiology): Cloud-native teleradiology platform with edge streaming, intelligent routing, and a unified multi-site worklist. Scale globally without local infrastructure.
+- [Business Continuity](https://sironamedical.com/solutions/business-continuity): Cloud-native resilience that keeps imaging online through failure. Auto-failover, rapid rollback, and multi-AZ high availability.
+- [Health Systems](https://sironamedical.com/solutions/health-systems): A multi-tenant, cloud-native platform that simplifies, streamlines, and stabilizes partnerships between health systems and private radiology practices.
+- [Practice Owners](https://sironamedical.com/solutions/practice-owners): Not just a PACS or reporter — organizational transformation for your radiology practice. One partner, one platform, one URL.
+- [Radiologists](https://sironamedical.com/solutions/radiologists): Sirona brings your viewer, reporter, worklist, and AI into a single cloud-native platform — giving you context that fragmented systems can never deliver.
+- [Grow Your Practice](https://sironamedical.com/solutions/grow-your-practice): Sirona's unified platform eliminates complexity and automates operations, so you can scale volume without scaling overhead.
+- [Unify Fragmented PACS](https://sironamedical.com/solutions/unify-fragmented-pacs): Most practices read on multiple PACS systems. Sirona's cloud-native architecture consolidates every PACS into a single platform.
+- [AI Orchestration](https://sironamedical.com/solutions/ai-orchestration): One orchestration layer commanding multiple FDA-cleared algorithms, integrated invisibly into the reading workflow — many algorithms, one interface.
+- [Reporter-Only](https://sironamedical.com/solutions/reporter-only): Sirona's pixel-powered reporter overlays on your existing PACS — no migration needed. Start with reporting, expand to the full platform when you're ready.
+- [Managed IT](https://sironamedical.com/solutions/managed-it): Outsource your radiology IT to Sirona: managed archive, managed integrations, managed security, and 24/7 support — so you operate your practice, not servers.
+- [Security & Compliance](https://sironamedical.com/solutions/security-regulatory-compliance): HIPAA compliant, SOC 2 Type II certified, FDA regulated. Sirona delivers security by design, not bolt-on — with regular audits and enterprise-grade tooling.
+- [For AI Vendors](https://sironamedical.com/solutions/ai-vendors): Build on Sirona and reach our customer network. Reseller and white-label paths available. Embed your AI into live radiology workflows on the RadOS platform.
+- [For Radiology IT Vendors](https://sironamedical.com/solutions/radiology-it-vendors): Interoperate with Sirona via our open SDK and APIs — DICOM, HL7, and FHIR in and out. RadOS is and always will be an open platform.
+
+## Plans
+
+- [Sirona Unify — The Complete Radiology Platform](https://sironamedical.com/pro): Unified workflow software for the AI age: viewer, reporter, worklist, PACS, and platform AI in one enterprise-grade, cloud-native plan.
+
+## Resources
+
+- [Blog](https://sironamedical.com/resources/blog): Essays and updates from the Sirona team on cloud-native radiology, AI, and the future of medical imaging software.
+- [White Papers](https://sironamedical.com/resources/white-papers): Sirona white papers, eBooks, and case studies on cloud-native radiology — the economics of imaging, the reimagined independent practice, and unified platform architecture.
+- [Videos & Podcasts](https://sironamedical.com/resources/videos-podcasts): Product demos, launch events, fireside chats, and podcast conversations on the future of radiology.
+
+## Company
+
+- [About Sirona Medical](https://sironamedical.com/company): Sirona Medical is building the radiology operating system — unifying PACS, reporting, viewer, worklist, and AI in one cloud-native platform.
+- [Press & News](https://sironamedical.com/company/press): Sirona Medical press releases and company news: product launches, FDA clearances, funding, partnerships, and leadership announcements.
+- [Careers](https://sironamedical.com/company/careers): Help build the operating system for radiology. Explore open roles at Sirona Medical — a San Francisco-based team rebuilding medical imaging software from first principles.
+- [See Sirona](https://sironamedical.com/see-sirona): See the radiology operating system in action. Request a live demo or explore Sirona on demand.

@@ -1,0 +1,43 @@
+generated: '2026-07-21'
+method: searched
+source: https://sironamedical.com/solutions/security-regulatory-compliance
+notes: >-
+  Sirona Medical publishes no public developer API/OpenAPI (the RadOS SDK and
+  GraphQL API are explicitly "on the roadmap / vision"), so cross-cutting API
+  standards (OAuth2/OIDC/RFC9457/pagination) cannot be derived from a spec.
+  These entries capture the healthcare interoperability + compliance standards
+  the platform states it conforms to, harvested from the interoperability and
+  security/compliance pages.
+standards:
+  - id: dicom
+    conforms: true
+    evidence: "Native DICOM connectivity for imaging system integration and device communication (interoperability page)"
+    source: https://sironamedical.com/platform/capability/interoperability
+  - id: hl7v2
+    conforms: true
+    evidence: "Standard HL7v2 messaging for EHR and clinical system interoperability (interoperability page)"
+    source: https://sironamedical.com/platform/capability/interoperability
+  - id: fhir
+    conforms: true
+    evidence: "FHIR integration in/out for RIS/EMR interoperability (interoperability + llms.txt)"
+    source: https://sironamedical.com/platform/capability/interoperability
+  - id: hipaa
+    conforms: true
+    evidence: "HIPAA-compliant by design: encryption, audit logging, access controls, patient authentication to protect PHI"
+    source: https://sironamedical.com/solutions/security-regulatory-compliance
+  - id: soc2-type-ii
+    conforms: true
+    evidence: "SOC 2 Type II certified for six consecutive years with zero exceptions (security/availability/processing integrity/confidentiality/privacy)"
+    source: https://sironamedical.com/solutions/security-regulatory-compliance
+  - id: fda-class-i
+    conforms: true
+    evidence: "FDA Class I designation for its reporter platform, developed under a design-controlled SDLC (regulated medical device)"
+    source: https://sironamedical.com/solutions/security-regulatory-compliance
+  - id: eu-mdr
+    conforms: false
+    evidence: "In progress for 2027 international expansion (pursuing EU MDR certification)"
+    source: https://sironamedical.com/solutions/security-regulatory-compliance
+  - id: iso-13485
+    conforms: false
+    evidence: "In progress for 2027 international expansion (pursuing ISO 13485 medical device standard)"
+    source: https://sironamedical.com/solutions/security-regulatory-compliance

@@ -1,0 +1,30 @@
+generated: '2026-07-21'
+method: searched
+probe: false
+url: https://sironamedical.com/solutions/security-regulatory-compliance
+notes: >-
+  No dedicated trust.<domain> / security.<domain> subdomain (both resolve/refuse:
+  trust.sironamedical.com and security.sironamedical.com returned no response).
+  Sirona publishes its security posture on a marketing "Security, Regulatory &
+  Compliance" page, captured here verbatim from that page.
+certifications:
+  - FDA Class I
+  - SOC 2 Type II
+  - HIPAA
+security_controls:
+  - AES-256 encryption at rest
+  - TLS 1.3+ in transit
+  - end-to-end data classification and encryption
+  - audit logging
+  - access controls
+  - patient authentication
+  - routine third-party security testing
+  - vulnerability management
+  - incident response
+  - continuous security monitoring
+roadmap:
+  - EU MDR certification (2027, in progress)
+  - ISO 13485 (2027, in progress)
+evidence:
+  - source: https://sironamedical.com/solutions/security-regulatory-compliance
+    keywords: [soc 2 type ii, hipaa, fda class i, aes-256, tls 1.3, encryption, compliance]
