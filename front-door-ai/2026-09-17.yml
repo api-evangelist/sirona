@@ -1,0 +1,27 @@
+# Front Door AI Index — sirona — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: sirona
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: sironamedical.com
+  final_host: sironamedical.com
+  ownership: unresolved
+  owner: null
+  shares_host_with:
+  - nines
+  inherited_from: null
+  verdict: scored
+  score: null
+  host_score: 7
+  density: null
+  words: 355
+  tiers:
+    agentic: 1
+    core: 6
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 6
+    inference: 1
