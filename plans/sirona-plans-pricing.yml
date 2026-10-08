@@ -1,0 +1,21 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://sironamedical.com/pro
+sources:
+- https://sironamedical.com/pro
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: No numeric price is published on the pricing page; Product overview page for Sirona Unify; mentions
+  'a single per-exam subscription fee' but no numeric prices, only 'Request a Demo'.
+plan_count: 0
+plans: []
